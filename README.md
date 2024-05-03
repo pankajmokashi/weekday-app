@@ -8,7 +8,7 @@
     - Open your terminal or command prompt.
     - Navigate to the directory where you want to clone the repository.
     - Use the git clone command followed by the repository URL to clone the repository locally.
-        - https://github.com/pankajmokashi/weekday-app.git
+        - git clone https://github.com/pankajmokashi/weekday-app.git
 
 - Navigate to the Project Directory:
     - Once the repository is cloned, navigate to the project directory using the cd command.
@@ -26,3 +26,7 @@
       	- npm start
 
 ---
+
+### Live Link
+
+- https://weekday-candidate-app.netlify.app/
